@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="https://github.com/StuxxyOfficial/"><img alt="StuxxyOfficial Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=StuxxyOfficial&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
+
+<a href="https://github.com/StuxxyOfficial/"><img alt="" src="https://komarev.com/ghpvc/?username=StuxxyOfficial" /></a>
