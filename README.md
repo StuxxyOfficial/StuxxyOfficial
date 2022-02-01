@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/StuxxyOfficial/"><img alt="" src="https://komarev.com/ghpvc/?username=StuxxyOfficial" /></a>
 
-<a href='https://ko-fi.com/I2I381QZV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I381QZV)
