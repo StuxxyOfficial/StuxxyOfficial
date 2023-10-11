@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/StuxxyOfficial/"><img alt="StuxxyOfficial Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StuxxyOfficial&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
 <br/>
 
-<a href="https://github.com/StuxxyOfficial/"><img alt="StuxxyOfficial Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=StuxxyOfficial&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stuxxyofficial&bg_color=0d1117&color=29c785&line=29c785&point=d4d4d4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 
 <a href="https://github.com/StuxxyOfficial/"><img alt="" src="https://komarev.com/ghpvc/?username=StuxxyOfficial" /></a>
